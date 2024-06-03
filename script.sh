@@ -1,4 +1,7 @@
 #!/bin/bash
+rm -r fol_1
+rm -r fol_2
+
 mkdir fol_1
 
 touch fol_1/1_1.txt
